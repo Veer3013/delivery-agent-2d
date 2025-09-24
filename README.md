@@ -5,7 +5,7 @@
 
 [cite_start]This work was completed for the "CSA2001-Fundamentals of AI and ML" course[cite: 4]. [cite_start]It features the implementation and experimental comparison of several fundamental AI search algorithms[cite: 10].
 
-![Pathfinding Visualization](https://i.imgur.com/5Sj1Z2g.png)
+![Pathfinding Visualization]
 
 ## Features
 
